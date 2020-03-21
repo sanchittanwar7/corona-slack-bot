@@ -1,0 +1,1 @@
+DEFAULT_SLACK_WEBHOOK="https://hooks.slack.com/services/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"
